@@ -23,7 +23,7 @@ WordPress Security Guard helps to stay safe and prevent downtime due to security
 * Extensive help and descriptions of tests included
 
 
-**Don't forget say Thanks to <a href="http://themology.net">Themology</a> and also don't forget to share!**
+**Don't forget to say Thanks to <a href="http://themology.net">Themology</a> and also don't forget to share!**
 
 
 
