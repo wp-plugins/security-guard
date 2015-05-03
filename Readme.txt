@@ -9,19 +9,17 @@ Don't let script kiddies hack your site!
 
 == Description ==
 
-WordPress Security Guard helps stay safe and prevent downtime due to security issues. 35+ tests will provide a comprehensive overview of your site's security.
-
-It takes less than a minute for WordPress Security Guard to perform the scan after which you'll immediately see the color coded results along with links to detailed explanation of the problem and ways to fix it.
+WordPress Security Guard helps to stay safe and prevent downtime due to security issues. It takes less than a minute for WordPress Security Guard to perform the scan after which you'll immediately see the color coded results along with links to detailed explanation of the problem and ways to fix it.
 
 **Some awesome features:**
 
-* Perform 35+ security tests including brute-force attacks
+* Perform security tests including brute-force attacks
 * Check your site for security vulnerabilities and holes
 * Checks for Timthumb vulnerability
 * Take preventive measures against attacks
 * Prevent 0-day exploit attacks
 * Checks for Shellshock server bug
-* use included code snippets for quick fixes
+* Use included code snippets for quick fixes
 * Extensive help and descriptions of tests included
 
 
@@ -48,9 +46,9 @@ This section describes how to install the plugin and get it working.
 2. Open WordPress admin and go to Plugins -> Add New -> Upload. Browse for the ZIP file security-guard.zip on your computer and hit “Install Now”.
 3. Activate the plugin.
 
-**5 sec install tutorial**
+**Usage tutorial**
 
-1. Open Tools - Security Guard
+1. Open Tools => Security Guard
 2. Click "Run Tests" to analyze your site
 
 == Frequently Asked Questions ==
