@@ -9,9 +9,9 @@ Don't let script kiddies hack your site!
 
 == Description ==
 
-WordPress Security Guard helps thousands to stay safe and prevent downtime due to security issues. 35+ tests will provide a comprehensive overview of your site's security. It takes less than a minute for WordPress Security Guard to perform the scan after which you'll immediately see the color coded results along with links to detailed explanation of the problem and ways to fix it.
+WordPress Security Guard helps stay safe and prevent downtime due to security issues. 35+ tests will provide a comprehensive overview of your site's security.
 
-Some performed tests are simple, some complex, but the only thing you have to do is click "Scan now" - rest is up to Guard. Simplicity and ease of use are one of our primary goals.
+It takes less than a minute for WordPress Security Guard to perform the scan after which you'll immediately see the color coded results along with links to detailed explanation of the problem and ways to fix it.
 
 **Some awesome features:**
 
@@ -23,6 +23,9 @@ Some performed tests are simple, some complex, but the only thing you have to do
 * Checks for Shellshock server bug
 * use included code snippets for quick fixes
 * Extensive help and descriptions of tests included
+
+
+**Don't forget say Thanks to <a href="http://themology.net">Themology</a> and also don't forget to share!**
 
 
 
@@ -101,7 +104,7 @@ define('THEMO_SG_MAX_EXEC_SEC', 200);
 
 **Configuring maximum number of user accounts to perform brute-force attacks on**
 
-By default Security Ninja tests only the first 25 users (starting from administrators) when doing brute-force attacks. This limit is imposed to be sure we don't kill the database while doing the attack.
+By default Security Guard tests only the first 25 users (starting from administrators) when doing brute-force attacks. This limit is imposed to be sure we don't kill the database while doing the attack.
 
 If you want to test more or all users open security-guard.php and change the line #20 which defines this limit.
 
